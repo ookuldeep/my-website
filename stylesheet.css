@@ -35,12 +35,20 @@ body {
 }
 
     
-.icons{
+#footer{
+    align-items: center;
+    float: center;
+    padding: 15px 15px 15px 15px;
+    align-content:bottom;
+    
+}
+.toggles{
     float:right;
     font-size: medium;
     
     top: 10px;
     right: 15px;
+    
 }
 .card img{
     width: 64px;
